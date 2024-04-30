@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <Head>
         <Link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" />
-
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <script async src="https://tally.so/widgets/embed.js"></script>
 
