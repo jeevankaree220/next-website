@@ -19,9 +19,10 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <Head>
         <Link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" />
-        <script async src="https://tally.so/widgets/embed.js"></script>
 
       </Head>
+      <script async src="https://tally.so/widgets/embed.js"></script>
+
 
       <body className={`${montserrat.variable} ${poppins.variable} ${roboto.variable} font-montserrat`}>{children}</body>
     </html>
