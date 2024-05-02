@@ -1,12 +1,12 @@
 import Image from "next/image";
-import Hero from "../app/components/Hero"
+import CookingHero from "../app/components/CookingHero"
 import Clients from "../app/components/Clients"
 
 export default function Home() {
   return (
     <>
-      <Hero/>
-      <Clients/>
+      <CookingHero/>
+      {/* <Clients/> */}
     </>
   );
 }
