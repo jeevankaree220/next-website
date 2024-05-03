@@ -11,6 +11,8 @@ module.exports = {
           roboto: ['var(--font-roboto)'],
           poppins: ['var(--font-poppins)'],
           montserrat: ['var(--font-montserrat)'],
+          dmsans: ['var(--font-dmsans)'],
+          ubuntu: ['var(--font-ubuntu)'],
         },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
