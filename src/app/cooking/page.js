@@ -1,10 +1,10 @@
 import Image from "next/image";
-import Travel from "../app/components/Travel"
+import Cooking from "../../app/components/CookingHero"
 
 export default function Home() {
   return (
     <>
-      <Travel/>
+      <Cooking/>
     </>
   );
 }

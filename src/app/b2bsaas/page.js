@@ -1,10 +1,10 @@
 import Image from "next/image";
-import Travel from "../app/components/Travel"
+import Saas from "../../app/components/Saas"
 
 export default function Home() {
   return (
     <>
-      <Travel/>
+      <Saas/>
     </>
   );
 }
