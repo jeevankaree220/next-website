@@ -1,10 +1,10 @@
 import Image from "next/image";
-import Travel from "../app/components/Travel"
+import Mobileapp from "../app/components/Mobileapp"
 
 export default function Home() {
   return (
     <>
-      <Travel/>
+      <Mobileapp/>
     </>
   );
 }

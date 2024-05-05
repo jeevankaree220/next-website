@@ -126,11 +126,12 @@ export default function Example() {
                     </div>
                     </div>
                 </div>
-            </section>
-            <div className='absolute right-0 bottom-[calc(100%-3rem)] z-transform-gpu border-l-purple-200 overflow-hidden sm:bottom-[calc(100%-20rem)]'>
+                 <div className='absolute right-0 bottom-[calc(100%-3rem)] z-transform-gpu border-l-purple-200 overflow-hidden sm:bottom-[calc(100%-20rem)]'>
 
                             <Image src={'/paper-plane.svg'} className='origin-center rotate-90 p-4 rounded-xl opacity-50' width={100} height={100} alt='Next.js Website for Flight Booking'/>
                             </div>
+            </section>
+
           </div>
         </div>
 

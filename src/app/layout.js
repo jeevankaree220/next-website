@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
       <script async src="https://tally.so/widgets/embed.js"></script>
 
 
-      <body className={`${montserrat.variable} ${poppins.variable} ${roboto.variable} ${dmsans.variable} ${ubuntu.variable} font-dmsans`}>{children}</body>
+      <body className={`${montserrat.variable} ${poppins.variable} ${roboto.variable} ${dmsans.variable} ${ubuntu.variable} font-poppins`}>{children}</body>
     </html>
   );
 }
