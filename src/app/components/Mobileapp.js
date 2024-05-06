@@ -16,8 +16,6 @@ export default function Example() {
 
   return (
     <div className="bg-white h-full lg:h-screen">
-
-
       <div className="relative isolate pt-6">
         <svg
           className="absolute inset-0 -z-10 h-full w-full stroke-stone-600 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
